@@ -3,7 +3,6 @@
   <a href="https://discordapp.com/users/378910592498663425">Discord</a> |
   <a href="https://www.youtube.com/channel/UC8vk061LgToRU4F2xLl26tw">YouTube</a> |
   <a href="https://github.com/tamsgood">Github</a><br><br>
-  <img src="https://repository-images.githubusercontent.com/415421595/c116844b-4471-4865-b26f-88a4ec2ee8cb" style="width: 80%">
 </p>
 
 ##   
